@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../lab4_DZ/lab4_DZ.vcxproj" Id="8dfa2cc8-a64f-41df-8b95-6b03d7feef82" />
+  <Project Path="../lab4_task2/lab4_task2.vcxproj" Id="095d8866-bd4c-4a27-a23c-d5499b7d3a44" />
+  <Project Path="../lab4_task3/lab4_task3.vcxproj" Id="12a8db90-5e32-4b67-8c1d-bafdc7f3021a" />
+  <Project Path="lab4.vcxproj" Id="f20b83c1-058a-4422-a56c-32e495cd8e1c" />
+</Solution>
