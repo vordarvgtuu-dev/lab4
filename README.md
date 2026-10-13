@@ -15,7 +15,7 @@
 6. **Конец**
      
 ## 2. Реализация программы
-
+```
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <windows.h> 
@@ -35,7 +35,7 @@ int main() {
 int schastroika(int a, int b, int c) {
     return (a + b + c) % 3 == 0;
 }
-
+```
 ## 3. Результаты работы программы
 
 Введите три номера игроков (через пробел): 2 2 2
