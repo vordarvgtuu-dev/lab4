@@ -18,11 +18,11 @@
 ```
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <windows.h> 
+#include <locale.h>
 
 int schastroika(int a, int b, int c);
 int main() {
-    SetConsoleOutputCP(65001);
+    setlocale(LC_ALL, "RUS");
     int A, B, C;
     int result;
     printf("Введите три номера игроков (через пробел): ");
